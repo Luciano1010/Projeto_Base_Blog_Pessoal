@@ -5,7 +5,7 @@
     align-items: center;
     display: flex;
     flex-direction: column;
-    padding-top: 120px;
+    padding-top: 100px;
 }
 
 .logo{
@@ -27,6 +27,9 @@
     padding: 4px 12px;
     border-radius: 4px;
     cursor: pointer;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 18px;
+    
 }
 
 .buttonfrase{
